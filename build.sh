@@ -35,6 +35,7 @@ fi
 for required in \
     "$SOURCE_DIR/config.cpp" \
     "$PROJECT_DIR/mod.cpp" \
+    "$PROJECT_DIR/meta.cpp" \
     "$FILEBANK" \
     "$BANKREV" \
     "$DSSIGNFILE" \
@@ -71,6 +72,7 @@ wine "$DSSIGNFILE" \
 
 cp "$PUBLIC_KEY" "$BUILD_KEYS/"
 cp "$PROJECT_DIR/mod.cpp" "$BUILD_MOD/"
+cp "$PROJECT_DIR/meta.cpp" "$BUILD_MOD/"
 
 if [ -f "$PROJECT_DIR/README.md" ]; then
     cp "$PROJECT_DIR/README.md" "$BUILD_MOD/"
