@@ -1,0 +1,28 @@
+{
+    "ConfigVersion": 1,
+    "DebugEnabled": 0,
+    "CheckIntervalSeconds": 60,
+    "Campfires": [
+        {
+            "Id": "example_safezone",
+            "Name": "Example Safezone",
+            "Enabled": 0,
+            "Position": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "MatchRadius": 1.0,
+            "KeepBurning": 1,
+            "IgnoreWeather": 1,
+            "DisableFireDamage": 1,
+            "AllowExtinguish": 0,
+            "AllowZenFireSticksOnConcrete": 1
+        }
+    ]
+}
