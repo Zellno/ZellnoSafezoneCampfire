@@ -5,6 +5,6 @@ logo = "";
 logoOver = "";
 tooltip = "Permanent administrative campfires for safezones";
 overview = "Configurable permanent safezone campfires with vanilla cooking and Zen's Fire Sticks compatibility.";
-action = "";
+action = "https://github.com/Zellno/ZellnoSafezoneCampfire";
 author = "Zellno";
 version = "0.1.0";
