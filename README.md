@@ -2,6 +2,12 @@
 
 A configurable DayZ server mod that creates permanent administrative campfires for safezones while preserving vanilla cooking mechanics.
 
+## Steam Workshop
+
+- [Zellno Safezone Campfire](https://steamcommunity.com/sharedfiles/filedetails/?id=3767320261)
+- Workshop ID: `3767320261`
+- Required dependency: [Zenarchist's Fire Sticks](https://steamcommunity.com/sharedfiles/filedetails/?id=3498006019)
+
 ## Features
 
 - Multiple campfires configured through JSON.
