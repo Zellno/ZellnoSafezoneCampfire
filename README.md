@@ -108,3 +108,12 @@ before using either script.
 Original Zellno source code in this repository is released under the [MIT License](LICENSE).
 
 Zenarchist's Fire Sticks remains an external dependency and is not redistributed by this repository.
+
+## Monetization Permission
+
+Zellno permits the use of Zellno Safezone Campfire on monetized DayZ servers, provided that the server operator is registered, approved, and listed under Bohemia Interactive's DayZ Server Monetization program and complies with all applicable rules.
+
+This permission applies only to Zellno Safezone Campfire. It does not grant permission to monetize Zenarchist's Fire Sticks or any other third-party dependency. Server operators are responsible for obtaining any additional permissions required by those authors.
+
+- [Official monetization rules](https://www.bohemia.net/monetization)
+- [Approved DayZ servers](https://www.bohemia.net/monetization/approved/dayz)
